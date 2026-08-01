@@ -8,15 +8,15 @@ My current focus is developing reliable cloud-hosted applications while strength
 
 ## Featured Work
 
-### Cloud Commerce Platform
+### [Merchant Checkout Platform](https://github.com/Philip793/merchant-checkout-platform)
 
 A full-stack commerce application with authentication, persistent shopping sessions, cloud-hosted services and Stripe/Braintree payment integrations.
 
-### CoffeeShop
+### CoffeeShop(https://github.com/Philip793/CoffeeShop)
 
 A React Native mobile application built with Expo and Expo Router.
 
-### How I Build Software
+### How I Build Software(https://github.com/Philip793/How-I-Build-Software)
 
 A living record of my engineering principles, technical decisions and learning roadmap.
 
